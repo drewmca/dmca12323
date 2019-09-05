@@ -22,7 +22,7 @@
   "main": "./index.js",
   "types": "./index.d.ts",
   "dependencies": {
-    "@atomist/automation-client": "1.0.0-M.3",
+    "@atomist/automation-client": "1.0.0-master.20181006002158",
     "@atomist/sdm": "1.0.0-M.3",
     "@atomist/sdm-core": "1.0.0-M.3",
     "@atomist/sdm-pack-spring": "1.0.0-M.3",
